@@ -1,6 +1,6 @@
 # FirstWebFlow
 
-Welcome to FirstWebFlow, a front-end web development project completed during my coursework at Byte Education. This project showcases my skills in HTML, CSS, and JavaScript, and demonstrates my ability to create responsive and visually appealing websites.
+Welcome to FirstWebFlow, a front-end web development project completed during my coursework at Byte Education. This project showcases my skills in HTML, CSS and demonstrates my ability to create responsive and visually appealing websites.
 
 ## Features
 
@@ -14,7 +14,6 @@ Welcome to FirstWebFlow, a front-end web development project completed during my
 
 - HTML
 - CSS
-- JavaScript
 
 ## Getting Started
 
